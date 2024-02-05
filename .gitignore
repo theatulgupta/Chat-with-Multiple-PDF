@@ -2,6 +2,9 @@
 venv/
 env/
 
+# Local DB
+faiss_index/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
